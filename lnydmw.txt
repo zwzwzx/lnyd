@@ -312,6 +312,14 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 
 其他,#genre#
 
+CHC动作电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227432/index.m3u8
+CHC家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227368/index.m3u8
+CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
+CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226171/index.m3u8
+CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/index.m3u8
+CETV2,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226170/index.m3u8
+CETV3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
+CETV4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
 至臻视界-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227393/index.m3u8
 咪视界-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
 兵器科技,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227453/index.m3u8
@@ -347,14 +355,7 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 怀旧剧场,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227499/index.m3u8
 老故事,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227438/index.m3u8
 CGTN,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
-CHC动作电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227432/index.m3u8
-CHC家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227368/index.m3u8
-CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
-CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226171/index.m3u8
-CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/index.m3u8
-CETV2,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226170/index.m3u8
-CETV3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
-CETV4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
+
 
 咪咕,#genre#
 
@@ -390,5 +391,6 @@ CETV4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
 咪视界30,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
 咪视界31,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
 咪视界32,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
+
 
 
