@@ -26,6 +26,17 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
 
 卫视,#genre#
 
+辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
+辽宁北方,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
+辽宁都市,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8
+辽宁公共,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227224/index.m3u8
+辽宁教育青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8
+辽宁经济,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227322/index.m3u8
+辽宁生活,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226761/index.m3u8
+辽宁体育休闲,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
+辽宁移动电视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
+辽宁影视剧,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8
+沈阳新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227315/index.m3u8
 北京卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227532/index.m3u8
 湖南卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227630/index.m3u8
 江苏卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227627/index.m3u8
@@ -75,17 +86,7 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
 云南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227530/index.m3u8
 浙江卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227485/index.m3u8
 重庆卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227618/index.m3u8
-辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
-辽宁北方,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
-辽宁都市,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8
-辽宁公共,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227224/index.m3u8
-辽宁教育青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8
-辽宁经济,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227322/index.m3u8
-辽宁生活,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226761/index.m3u8
-辽宁体育休闲,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
-辽宁移动电视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
-辽宁影视剧,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8
-沈阳新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227315/index.m3u8
+
 
 其他,#genre#
 
