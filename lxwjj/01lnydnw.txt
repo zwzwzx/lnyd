@@ -164,4 +164,3 @@ CGTN,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
 咪视界29,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227384/index.m3u8
 咪视界30,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
 咪视界31,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
-咪视界32,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
