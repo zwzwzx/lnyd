@@ -432,7 +432,7 @@ tvbs新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 
 电影专场,#genre#
 
-渗透电视轮播,https://live.ottiptv.cc/huya/30080244
+
 放映厅播频道,https://live.ottiptv.cc/huya/11602077
 刘德华播频道,https://live.ottiptv.cc/huya/11342424
 许冠英播频道,https://live.ottiptv.cc/huya/11601972
@@ -459,7 +459,6 @@ tvbs新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 喜剧频道,https://live.ottiptv.cc/huya/11352877
 港片频道,https://live.ottiptv.cc/huya/11602043
 国产频道,https://live.ottiptv.cc/huya/11352973
-漫威频道,https://live.ottiptv.cc/huya/11602034
 宇宙频道,https://live.ottiptv.cc/huya/11342428
 怪兽频道,https://live.ottiptv.cc/huya/21059577
 武侠频道,https://live.ottiptv.cc/huya/11342427
@@ -473,9 +472,7 @@ tvbs新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 热血频道,https://live.ottiptv.cc/huya/11352934
 谍战频道,https://live.ottiptv.cc/huya/21059585
 战争频道,https://live.ottiptv.cc/huya/21059592
-小鬼头播频道,https://live.ottiptv.cc/huya/11352963
 陈翔六点频道,https://live.ottiptv.cc/huya/11274154
-喜剧专场频道,https://live.ottiptv.cc/huya/11602044
 高分动作频道,https://live.ottiptv.cc/huya/11352884
 不挤影院频道,https://live.ottiptv.cc/huya/11352897
 黑帮斗争频道,https://live.ottiptv.cc/huya/11342419
@@ -495,6 +492,5 @@ tvbs新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 欢笑影院频道,https://live.ottiptv.cc/huya/11352894
 国产悬疑频道,https://live.ottiptv.cc/huya/11342395
 快意江湖频道,https://live.ottiptv.cc/huya/11342435
-喜乐影院频道,https://live.ottiptv.cc/huya/21059580
 怪兽系列频道,https://live.ottiptv.cc/huya/21059554
 杰森斯坦频道,https://live.ottiptv.cc/huya/21059588
