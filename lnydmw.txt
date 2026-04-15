@@ -414,6 +414,9 @@ IPTV星影,http://183.222.15.202:4321/udp/239.10.0.156:5140
 公视,http://74.91.26.218:82/live/pts.m3u8
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
 TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
+中天新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715
+无线新闻台 HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUEbph0MZRKP28AR8hSX0shw-kQLvz2ZlL6nyYPGVfN3FduvOO49j8rJSv3lqv06Z81xFF6OU44IdM5xkGsvN3l3E7lJ869oB2qx2kUpO9-t9Vnx89r2fkyUdx_t-s5yfsTcO6xNsYqCI63aI8eD3U_orZF_u25-jN4fzjPbudkZwUqvMnDEWGsGV54PVGH1subd_9bdnPjMgjDmjB4ValZA.m3u8?u=1756878715
+
 
 
 港澳台,#genre#
@@ -429,6 +432,7 @@ tvbs新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
+靖天電影,http://iptv.4666888.xyz/iptv2A.php?id=56
 
 电影专场,#genre#
 
