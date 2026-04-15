@@ -348,6 +348,7 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 热血频道,https://live.ottiptv.cc/huya/11352934
 谍战频道,https://live.ottiptv.cc/huya/21059585
 战争频道,https://live.ottiptv.cc/huya/21059592
+韩国动作片,https://isus.cc/php/huya.php?id=11352884
 陈翔六点频道,https://live.ottiptv.cc/huya/11274154
 高分动作频道,https://live.ottiptv.cc/huya/11352884
 不挤影院频道,https://live.ottiptv.cc/huya/11352897
