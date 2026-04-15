@@ -35,7 +35,6 @@ CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227419/index.m3u8
 CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227556/index.m3u8
 CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226189/index.m3u8
 CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226741/index.m3u8
-CCTV4K超,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227516/index.m3u8
 CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227218/index.m3u8
 CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227338/index.m3u8
 CCTV5,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227425/index.m3u8
@@ -104,14 +103,12 @@ CCTV16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227074/index.m3u8
 CCTV16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227346/index.m3u8
 CCTV16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227455/index.m3u8
 CCTV16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227458/index.m3u8
-CCTV16-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227416/index.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227552/index.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227568/index.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226866/index.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
-央视台球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227380/index.m3u8
-央视文化精品,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227505/index.m3u8
+
 
 卫视,#genre#
 
@@ -123,25 +120,25 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227242/index.m3u8
 辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226767/index.m3u8
 辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226141/index.m3u8
-辽宁北方,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
 辽宁北方,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227327/index.m3u8
+辽宁北方,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
 辽宁都市,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8
 辽宁都市,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227355/index.m3u8
 辽宁公共,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227224/index.m3u8
-辽宁教育青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8
 辽宁教育青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227297/index.m3u8
+辽宁教育青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8
 辽宁经济,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227322/index.m3u8
-辽宁生活,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226761/index.m3u8
 辽宁生活,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227319/index.m3u8
+辽宁生活,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226761/index.m3u8
 辽宁体育休闲,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
 辽宁体育休闲,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227334/index.m3u8
-辽宁移动电视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
 辽宁移动电视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227328/index.m3u8
+辽宁移动电视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
 辽宁影视剧,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8
 辽宁影视剧,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227331/index.m3u8
 沈阳新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227315/index.m3u8
-北京卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227532/index.m3u8
 北京卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8
+北京卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227532/index.m3u8
 北京卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227410/index.m3u8
 湖南卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227630/index.m3u8
 江苏卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227627/index.m3u8
@@ -149,9 +146,6 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 山东卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227621/index.m3u8
 东方卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227539/index.m3u8
 浙江卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227542/index.m3u8
-广东卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227510/index.m3u8
-深圳卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227538/index.m3u8
-安多卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227561/index.m3u8
 安徽卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227567/index.m3u8
 安徽卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226746/index.m3u8
 安徽卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227634/index.m3u8
@@ -166,8 +160,8 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 北京卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227340/index.m3u8
 北京卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226185/index.m3u8
 北京卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226823/index.m3u8
-北京纪实科教,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226730/index.m3u8
 北京纪实科教,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227294/index.m3u8
+北京纪实科教,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226730/index.m3u8
 兵团卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227464/index.m3u8
 兵团卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226859/index.m3u8
 东方卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227476/index.m3u8
