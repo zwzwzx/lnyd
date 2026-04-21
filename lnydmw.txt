@@ -307,8 +307,9 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 
 电影专场,#genre#
 
-
-放映厅播频道,https://live.ottiptv.cc/huya/11602077
+CHC家庭影院,http://182.207.218.36:999/tsfile/live/1014_1.m3u8?key=txiptv
+CHC动作电影,http://182.207.218.36:999/tsfile/live/1015_1.m3u8?key=txiptv
+杰森斯坦频道,https://live.ottiptv.cc/huya/21059588
 刘德华播频道,https://live.ottiptv.cc/huya/11342424
 许冠英播频道,https://live.ottiptv.cc/huya/11601972
 李连杰播频道,https://live.ottiptv.cc/huya/11342390
@@ -363,13 +364,11 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 死神来了频道,https://live.ottiptv.cc/huya/11352903
 超异能族频道,https://live.ottiptv.cc/huya/21059586
 古墓系列频道,https://live.ottiptv.cc/huya/11352913
-动作电影频道,https://live.ottiptv.cc/huya/11602077
 搞笑喜剧频道,https://live.ottiptv.cc/huya/11342423
 欢笑影院频道,https://live.ottiptv.cc/huya/11352894
 国产悬疑频道,https://live.ottiptv.cc/huya/11342395
 快意江湖频道,https://live.ottiptv.cc/huya/11342435
 怪兽系列频道,https://live.ottiptv.cc/huya/21059554
-杰森斯坦频道,https://live.ottiptv.cc/huya/21059588
 
 
 IPTV剧场,#genre#
