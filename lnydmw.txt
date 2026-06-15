@@ -232,7 +232,6 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 青海卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226153/index.m3u8
 三沙卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227610/index.m3u8
 厦门卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227591/index.m3u8
-山东教育卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227166/index.m3u8
 山东卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227509/index.m3u8
 山东卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227573/index.m3u8
 山东卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227312/index.m3u8
@@ -285,8 +284,6 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 
 电影专场,#genre#
 
-CHC家庭影院,http://182.207.218.36:999/tsfile/live/1014_1.m3u8?key=txiptv
-CHC动作电影,http://182.207.218.36:999/tsfile/live/1015_1.m3u8?key=txiptv
 杰森斯坦频道,https://live.ottiptv.cc/huya/21059588
 刘德华播频道,https://live.ottiptv.cc/huya/11342424
 许冠英播频道,https://live.ottiptv.cc/huya/11601972
@@ -365,20 +362,7 @@ IPTV星影,http://183.222.15.202:4321/udp/239.10.0.156:5140
 
 中国台湾,#genre#
 
-中视,http://74.91.26.218:82/live/ctv.m3u8
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-台视,http://74.91.26.218:82/live/ttv.m3u8
-台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
-台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
-华视,http://74.91.26.218:82/live/cts.m3u8
-华视新闻资讯,http://74.91.26.218:82/live/ctsnews.m3u8
-华视教育体育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-民视,http://74.91.26.218:82/live/ftv.m3u8
-民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
-民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
-民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
-公视,http://74.91.26.218:82/live/pts.m3u8
-小公视,http://74.91.26.218:82/live/ptsse.m3u8
+
 TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
 中天新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715
 无线新闻台 HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUEbph0MZRKP28AR8hSX0shw-kQLvz2ZlL6nyYPGVfN3FduvOO49j8rJSv3lqv06Z81xFF6OU44IdM5xkGsvN3l3E7lJ869oB2qx2kUpO9-t9Vnx89r2fkyUdx_t-s5yfsTcO6xNsYqCI63aI8eD3U_orZF_u25-jN4fzjPbudkZwUqvMnDEWGsGV54PVGH1subd_9bdnPjMgjDmjB4ValZA.m3u8?u=1756878715
@@ -391,21 +375,12 @@ TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
 
 港澳台,#genre#
 
-澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
+
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
-无线娱乐,http://iptv.4666888.xyz/iptv2A.php?id=36
 有线综合,http://iptv.4666888.xyz/iptv2A.php?id=35
 RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
 tvbs新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-非凡新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQmXztaPqUaTu4Cwnl89i6cAR9Ns3UjqcoGz-7Ku7pzf8iRuAW58SqlW8Ghow8snuw6yfVoLvHJKXPQNA-W3LLPQLYBMRGmbNnAsWRe3wWdIC4EE16x_TBLIOmMb-W1cOjjtcA4GIBxfm2qECWwd6GZ4tuxkY-pmlspR_GyEilrC5x123WrqHPcYUKVnd9k5Lvw.m3u8?u=1756878715
-凤凰香港,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkn8SJteYZ9uqzUO6nYtuUh6F-PN7bfjcRGaPw6WlGqRJXDBhEndnIu4j9XCk2jMbsgXqcdc5EoIBXfD7zolJBsvKapI6zL3TY0miLmlXbN6s1HL9nbhZ_-YYylQavg8fyJuokqsa-c_dYoVldu95ImgqU0t9mxSaKem7IJRiBJmz9a_295GFeFQ89c_Ubo4Q9g.m3u8?u=1756878715
-凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
-东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
-民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
 靖天電影,http://iptv.4666888.xyz/iptv2A.php?id=56
 
@@ -419,71 +394,6 @@ CETV3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
 CETV4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
 至臻视界-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227393/index.m3u8
 咪视界-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
-兵器科技,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227453/index.m3u8
-第一剧场,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227444/index.m3u8
-世界地理,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227450/index.m3u8
-电视指南,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227374/index.m3u8
-高尔夫网球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227496/index.m3u8
-睛彩广场舞,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227423/index.m3u8
-睛彩竞技,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227417/index.m3u8
-睛彩篮球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8
-睛彩青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8
 优漫卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226149/index.m3u8
 优漫卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226768/index.m3u8
-嘉佳卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226744/index.m3u8
-新动漫,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8
 卡酷少儿,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226157/index.m3u8
-先锋乒羽,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227365/index.m3u8
-茶频道,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227371/index.m3u8
-金鹰纪实,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226714/index.m3u8
-金鹰纪实,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227291/index.m3u8
-金鹰卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226845/index.m3u8
-金鹰卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227300/index.m3u8
-金鹰卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226158/index.m3u8
-快乐垂钓,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227441/index.m3u8
-文物宝库,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227359/index.m3u8
-梨园频道,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227362/index.m3u8
-武术世界,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227487/index.m3u8
-书画频道,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227493/index.m3u8
-国学频道,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227435/index.m3u8
-风云剧场,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227447/index.m3u8
-风云音乐,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227502/index.m3u8
-风云足球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227377/index.m3u8
-怀旧剧场,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227499/index.m3u8
-老故事,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227438/index.m3u8
-CGTN,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
-
-
-咪咕,#genre#
-
-咪视界01,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227439/index.m3u8
-咪视界02,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227409/index.m3u8
-咪视界03,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227323/index.m3u8
-咪视界04,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227387/index.m3u8
-咪视界05,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227366/index.m3u8
-咪视界06,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227369/index.m3u8
-咪视界07,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227406/index.m3u8
-咪视界08,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227320/index.m3u8
-咪视界09,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227314/index.m3u8
-咪视界10,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227308/index.m3u8
-咪视界11,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227372/index.m3u8
-咪视界12,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227317/index.m3u8
-咪视界13,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227326/index.m3u8
-咪视界14,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227412/index.m3u8
-咪视界15,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227293/index.m3u8
-咪视界16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227375/index.m3u8
-咪视界17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227378/index.m3u8
-咪视界18,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227302/index.m3u8
-咪视界19,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227299/index.m3u8
-咪视界20,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227390/index.m3u8
-咪视界21,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227430/index.m3u8
-咪视界22,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227433/index.m3u8
-咪视界23,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227296/index.m3u8
-咪视界24,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227442/index.m3u8
-咪视界25,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227445/index.m3u8
-咪视界26,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227448/index.m3u8
-咪视界27,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227451/index.m3u8
-咪视界28,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227305/index.m3u8
-咪视界29,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227384/index.m3u8
-咪视界30,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
-咪视界31,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
