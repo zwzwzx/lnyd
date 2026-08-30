@@ -288,7 +288,7 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 刘德华播频道,https://live.ottiptv.cc/huya/11342424
 许冠英播频道,https://live.ottiptv.cc/huya/11601972
 李连杰播频道,https://live.ottiptv.cc/huya/11342390
-甄子丹播频道,https://live.ottiptv.cc/huya/11352935
+
 周润发播频道,https://live.ottiptv.cc/huya/11342387
 周星星播频道,https://live.ottiptv.cc/huya/11336587
 洪金宝播频道,https://live.ottiptv.cc/huya/11279251
