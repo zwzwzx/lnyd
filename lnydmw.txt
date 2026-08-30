@@ -306,7 +306,7 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 黄渤频道,https://live.ottiptv.cc/huya/11352876
 吴京频道,https://live.ottiptv.cc/huya/11602041
 强森频道,https://live.ottiptv.cc/huya/21059581
-玄幻频道,https://live.ottiptv.cc/huya/11342414
+
 喜剧频道,https://live.ottiptv.cc/huya/11352877
 港片频道,https://live.ottiptv.cc/huya/11602043
 国产频道,https://live.ottiptv.cc/huya/11352973
