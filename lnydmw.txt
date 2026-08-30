@@ -1,5 +1,5 @@
 央视,#genre#
-1
+
 
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227637/index.m3u8
 CCTV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227544/index.m3u8
@@ -293,10 +293,10 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 周星星播频道,https://live.ottiptv.cc/huya/11336587
 洪金宝播频道,https://live.ottiptv.cc/huya/11279251
 梁家辉播频道,https://live.ottiptv.cc/huya/11342429
-洪金宝播频道,https://live.ottiptv.cc/huya/11279251
+
 五福星播频道,https://live.ottiptv.cc/huya/11282233
 古天乐播频道,https://live.ottiptv.cc/huya/11602041
-邱淑贞播频道,https://live.ottiptv.cc/huya/11352949
+
 周海媚播频道,https://live.ottiptv.cc/huya/11279247
 星爷频道,https://live.ottiptv.cc/huya/11342412
 英叔频道,https://live.ottiptv.cc/huya/11342421
@@ -314,7 +314,7 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 怪兽频道,https://live.ottiptv.cc/huya/21059577
 武侠频道,https://live.ottiptv.cc/huya/11342427
 警匪频道,https://live.ottiptv.cc/huya/11352886
-罪犯频道,https://live.ottiptv.cc/huya/11352962
+
 枪战频道,https://live.ottiptv.cc/huya/21059579
 盗墓频道,https://live.ottiptv.cc/huya/21059552
 海盗频道,https://live.ottiptv.cc/huya/21059595
@@ -325,7 +325,7 @@ CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
 战争频道,https://live.ottiptv.cc/huya/21059592
 韩国动作片,https://isus.cc/php/huya.php?id=11352884
 陈翔六点频道,https://live.ottiptv.cc/huya/11274154
-高分动作频道,https://live.ottiptv.cc/huya/11352884
+
 不挤影院频道,https://live.ottiptv.cc/huya/11352897
 黑帮斗争频道,https://live.ottiptv.cc/huya/11342419
 嫣然影厅频道,https://live.ottiptv.cc/huya/11601977
@@ -360,22 +360,12 @@ IPTV武侠剧场,http://183.222.15.202:4321/udp/239.10.0.133:5140
 IPTV光影,http://183.222.15.202:4321/udp/239.10.0.153:5140
 IPTV星影,http://183.222.15.202:4321/udp/239.10.0.156:5140
 
-中国台湾,#genre#
-
-
-TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
-中天新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715
-无线新闻台 HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUEbph0MZRKP28AR8hSX0shw-kQLvz2ZlL6nyYPGVfN3FduvOO49j8rJSv3lqv06Z81xFF6OU44IdM5xkGsvN3l3E7lJ869oB2qx2kUpO9-t9Vnx89r2fkyUdx_t-s5yfsTcO6xNsYqCI63aI8eD3U_orZF_u25-jN4fzjPbudkZwUqvMnDEWGsGV54PVGH1subd_9bdnPjMgjDmjB4ValZA.m3u8?u=1756878715
-新唐人亚太,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-
-
-
-
 
 
 港澳台,#genre#
 
-
+TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
+新唐人亚太,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 有线综合,http://iptv.4666888.xyz/iptv2A.php?id=35
 RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
